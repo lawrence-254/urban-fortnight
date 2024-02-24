@@ -10,11 +10,11 @@ namespace urban_fortnight
 
             string today = "    monday     ";
 
-            Console.WriteLine($"Today is {today}");
+            Console.WriteLine($"Today is {today}, with white space");
 
             string noWhiteSpace = today.Trim();
 
-            Console.WriteLine($"Today is {noWhiteSpace}");
+            Console.WriteLine($"Today is {noWhiteSpace}, without white space");
 
             string changeDay = today.Replace("monday", "tuesday");
 
