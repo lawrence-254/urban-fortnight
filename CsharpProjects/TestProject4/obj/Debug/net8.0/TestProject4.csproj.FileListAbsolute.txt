@@ -3,3 +3,13 @@
 /Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject4/obj/Debug/net8.0/TestProject4.AssemblyInfo.cs
 /Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject4/obj/Debug/net8.0/TestProject4.csproj.CoreCompileInputs.cache
 /Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject4/obj/Debug/net8.0/TestProject4.sourcelink.json
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject4/bin/Debug/net8.0/TestProject4
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject4/bin/Debug/net8.0/TestProject4.deps.json
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject4/bin/Debug/net8.0/TestProject4.runtimeconfig.json
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject4/bin/Debug/net8.0/TestProject4.dll
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject4/bin/Debug/net8.0/TestProject4.pdb
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject4/obj/Debug/net8.0/TestProject4.dll
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject4/obj/Debug/net8.0/refint/TestProject4.dll
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject4/obj/Debug/net8.0/TestProject4.pdb
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject4/obj/Debug/net8.0/TestProject4.genruntimeconfig.cache
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject4/obj/Debug/net8.0/ref/TestProject4.dll

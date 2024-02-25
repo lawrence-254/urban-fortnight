@@ -2,7 +2,7 @@
 
 foreach(string item in myArray)
 {
-    if item.StartsWith("B")
+    if (item.StartsWith("B"))
     {
         Console.WriteLine($"{item}");
     }
