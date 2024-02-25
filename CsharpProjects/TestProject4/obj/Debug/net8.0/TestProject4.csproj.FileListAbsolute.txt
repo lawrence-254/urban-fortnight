@@ -1,0 +1,5 @@
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject4/obj/Debug/net8.0/TestProject4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject4/obj/Debug/net8.0/TestProject4.AssemblyInfoInputs.cache
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject4/obj/Debug/net8.0/TestProject4.AssemblyInfo.cs
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject4/obj/Debug/net8.0/TestProject4.csproj.CoreCompileInputs.cache
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject4/obj/Debug/net8.0/TestProject4.sourcelink.json
