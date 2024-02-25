@@ -1,0 +1,15 @@
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject1/obj/Debug/net8.0/TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject1/obj/Debug/net8.0/TestProject1.AssemblyInfoInputs.cache
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject1/obj/Debug/net8.0/TestProject1.AssemblyInfo.cs
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject1/obj/Debug/net8.0/TestProject1.csproj.CoreCompileInputs.cache
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject1/obj/Debug/net8.0/TestProject1.sourcelink.json
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject1/bin/Debug/net8.0/TestProject1
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject1/bin/Debug/net8.0/TestProject1.deps.json
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject1/bin/Debug/net8.0/TestProject1.runtimeconfig.json
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject1/bin/Debug/net8.0/TestProject1.dll
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject1/bin/Debug/net8.0/TestProject1.pdb
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject1/obj/Debug/net8.0/TestProject1.dll
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject1/obj/Debug/net8.0/refint/TestProject1.dll
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject1/obj/Debug/net8.0/TestProject1.pdb
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject1/obj/Debug/net8.0/TestProject1.genruntimeconfig.cache
+/Users/lawrence/Desktop/person/urban-fortnight/CsharpProjects/TestProject1/obj/Debug/net8.0/ref/TestProject1.dll
